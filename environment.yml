@@ -1,0 +1,12 @@
+name: retail_solutions_x
+channels:
+  - defaults
+dependencies:
+  - python=3.12.9
+  - notebook
+  - pandas
+  - matplotlib
+  - jupyter
+  - seaborn
+  - numpy
+prefix: /home/gmorales/anaconda3/envs/retail_solutions_x
