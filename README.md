@@ -5,7 +5,7 @@
 ---
 
 ## 📝 Descripción del Proyecto
-Este proyecto aborda la problemática de la caída de facturación de **Retail Solutions X**. A través de un Análisis Exploratorio de Datos (EDA) sobre una base de 50,000 registros transaccionales (2024-2025), hemos identificado patrones de abandono de clientes (**Churn**) y evaluado el impacto económico de la pérdida de lealtad.
+Este proyecto aborda la problemática de la caída de facturación de **Retail Solutions X**. A través de un Análisis Exploratorio de Datos (EDA) sobre una base de 50.000 registros transaccionales (2024-2025), hemos identificado patrones de abandono de clientes (**Churn**) y evaluado el impacto económico de la pérdida de lealtad.
 
 ## 📂 Estructura del Proyecto
 Basado en estándares de la industria de Ciencia de Datos:
